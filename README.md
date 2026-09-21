@@ -1,1 +1,1 @@
-# DA_sales_Insights
+Product Sales Insights Dashboard is an interactive Microsoft Excel dashboard developed to analyze 1,500 sales transactions across multiple years. The project examines store performance, Retail vs Wholesale sales, promotional codes, discount impact, salesperson performance, payment methods, monthly sales, and returned transactions. Pivot Tables, Pivot Charts, KPIs, data cleaning, and dashboard visualization were used to transform raw sales data into meaningful business insights.
